@@ -1,0 +1,197 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="530" viewBox="0 0 940 530" font-family="'JetBrains Mono','Cascadia Code','Fira Code',Consolas,Menlo,monospace" font-size="15">
+<defs><filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000" flood-opacity=".55"/></filter></defs>
+<rect x="20" y="10" width="900" height="500" rx="12" fill="#1e1e2e" filter="url(#sh)"/>
+<rect x="0" y="0" width="940" height="530" fill="none"/>
+<path d="M20 22a12 12 0 0 1 12-12h876a12 12 0 0 1 12 12v22H20z" fill="#181825"/>
+<circle cx="46" cy="27" r="6.5" fill="#f38ba8"/>
+<circle cx="68" cy="27" r="6.5" fill="#f9e2af"/>
+<circle cx="90" cy="27" r="6.5" fill="#a6e3a1"/>
+<text x="470.0" y="32" fill="#6c7086" text-anchor="middle" font-weight="normal" font-size="13">devsweep ~/projects</text>
+<rect x="38" y="58" width="864" height="62" rx="4" fill="none" stroke="#6c7086"/>
+<rect x="52" y="47" width="104" height="22" fill="#89b4fa"/>
+<text x="104" y="63" fill="#11111b" text-anchor="middle" font-weight="bold" >devsweep</text>
+<rect x="164" y="47" width="190" height="22" fill="#1e1e2e"/>
+<text x="172" y="63" fill="#6c7086" text-anchor="start" font-weight="normal" >C:\Users\you\projects</text>
+<rect x="806" y="47" width="82" height="22" fill="#1e1e2e"/>
+<text x="814" y="63" fill="#a6e3a1" text-anchor="start" font-weight="normal" >✓ done</text>
+<text x="54" y="96" xml:space="preserve"><tspan fill="#cdd6f4" font-weight="normal">found </tspan><tspan fill="#cdd6f4" font-weight="bold">9</tspan><tspan fill="#6c7086" font-weight="normal">  ·  </tspan><tspan fill="#cdd6f4" font-weight="normal">reclaimable </tspan><tspan fill="#f9e2af" font-weight="bold">23.0 GB</tspan><tspan fill="#6c7086" font-weight="normal">  ·  </tspan><tspan fill="#cdd6f4" font-weight="normal">selected </tspan><tspan fill="#94e2d5" font-weight="bold">19.5 GB (4)</tspan><tspan fill="#6c7086" font-weight="normal">  ·  </tspan><tspan fill="#cdd6f4" font-weight="normal">freed </tspan><tspan fill="#a6e3a1" font-weight="bold">0 B</tspan></text>
+<rect x="38" y="140" width="864" height="292" rx="4" fill="none" stroke="#6c7086"/>
+<rect x="52" y="129" width="230" height="22" fill="#1e1e2e"/>
+<text x="60" y="145" xml:space="preserve"><tspan fill="#6c7086">sort: </tspan><tspan fill="#89b4fa" font-weight="bold">size</tspan><tspan fill="#6c7086">  filter: </tspan><tspan fill="#89b4fa" font-weight="bold">all</tspan></text>
+<text x="108" y="170" fill="#6c7086" text-anchor="start" font-weight="bold" >KIND</text>
+<text x="274" y="170" fill="#6c7086" text-anchor="end" font-weight="bold" >SIZE</text>
+<text x="490" y="170" fill="#6c7086" text-anchor="end" font-weight="bold" >AGE</text>
+<text x="518" y="170" fill="#6c7086" text-anchor="start" font-weight="bold" >PATH</text>
+<text x="64" y="200" fill="#94e2d5" text-anchor="start" font-weight="bold" >[x]</text>
+<text x="108" y="200" fill="#fab387" text-anchor="start" font-weight="normal" >rust</text>
+<text x="274" y="200" fill="#cdd6f4" text-anchor="end" font-weight="normal" >12.4 GB</text>
+<rect x="290.0" y="189" width="12" height="10" rx="1.5" fill="#fab387" opacity="1"/>
+<rect x="304.0" y="189" width="12" height="10" rx="1.5" fill="#fab387" opacity="1"/>
+<rect x="318.0" y="189" width="12" height="10" rx="1.5" fill="#fab387" opacity="1"/>
+<rect x="332.0" y="189" width="12" height="10" rx="1.5" fill="#fab387" opacity="1"/>
+<rect x="346.0" y="189" width="12" height="10" rx="1.5" fill="#fab387" opacity="1"/>
+<rect x="360.0" y="189" width="12" height="10" rx="1.5" fill="#fab387" opacity="1"/>
+<rect x="374.0" y="189" width="12" height="10" rx="1.5" fill="#fab387" opacity="1"/>
+<rect x="388.0" y="189" width="12" height="10" rx="1.5" fill="#fab387" opacity="1"/>
+<rect x="402.0" y="189" width="12" height="10" rx="1.5" fill="#fab387" opacity="1"/>
+<rect x="416.0" y="189" width="12" height="10" rx="1.5" fill="#fab387" opacity="1"/>
+<text x="490" y="200" fill="#6c7086" text-anchor="end" font-weight="normal" >8mo</text>
+<text x="518" y="200" fill="#cdd6f4" text-anchor="start" font-weight="normal" >side-projects\bevy-game\target</text>
+<text x="64" y="226" fill="#94e2d5" text-anchor="start" font-weight="bold" >[x]</text>
+<text x="108" y="226" fill="#a6e3a1" text-anchor="start" font-weight="normal" >node</text>
+<text x="274" y="226" fill="#cdd6f4" text-anchor="end" font-weight="normal" >3.2 GB</text>
+<rect x="290.0" y="215" width="12" height="10" rx="1.5" fill="#a6e3a1" opacity="1"/>
+<rect x="304.0" y="215" width="12" height="10" rx="1.5" fill="#a6e3a1" opacity="1"/>
+<rect x="318.0" y="215" width="12" height="10" rx="1.5" fill="#a6e3a1" opacity="1"/>
+<rect x="332.0" y="215" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="346.0" y="215" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="360.0" y="215" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="374.0" y="215" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="388.0" y="215" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="402.0" y="215" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="416.0" y="215" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<text x="490" y="226" fill="#6c7086" text-anchor="end" font-weight="normal" >14mo</text>
+<text x="518" y="226" fill="#cdd6f4" text-anchor="start" font-weight="normal" >clients\loja-nina\node_modules</text>
+<rect x="40" y="234" width="860" height="26" fill="#313244"/>
+<rect x="42" y="234" width="3" height="26" fill="#89b4fa"/>
+<text x="64" y="252" fill="#94e2d5" text-anchor="start" font-weight="bold" >[x]</text>
+<text x="108" y="252" fill="#a6e3a1" text-anchor="start" font-weight="normal" >node</text>
+<text x="274" y="252" fill="#cdd6f4" text-anchor="end" font-weight="normal" >2.1 GB</text>
+<rect x="290.0" y="241" width="12" height="10" rx="1.5" fill="#a6e3a1" opacity="1"/>
+<rect x="304.0" y="241" width="12" height="10" rx="1.5" fill="#a6e3a1" opacity="1"/>
+<rect x="318.0" y="241" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="332.0" y="241" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="346.0" y="241" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="360.0" y="241" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="374.0" y="241" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="388.0" y="241" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="402.0" y="241" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="416.0" y="241" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<text x="490" y="252" fill="#6c7086" text-anchor="end" font-weight="normal" >6mo</text>
+<text x="518" y="252" fill="#cdd6f4" text-anchor="start" font-weight="bold" >portfolio\node_modules</text>
+<text x="64" y="278" fill="#94e2d5" text-anchor="start" font-weight="bold" >[x]</text>
+<text x="108" y="278" fill="#f9e2af" text-anchor="start" font-weight="normal" >venv</text>
+<text x="274" y="278" fill="#cdd6f4" text-anchor="end" font-weight="normal" >1.8 GB</text>
+<rect x="290.0" y="267" width="12" height="10" rx="1.5" fill="#f9e2af" opacity="1"/>
+<rect x="304.0" y="267" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="318.0" y="267" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="332.0" y="267" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="346.0" y="267" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="360.0" y="267" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="374.0" y="267" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="388.0" y="267" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="402.0" y="267" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="416.0" y="267" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<text x="490" y="278" fill="#6c7086" text-anchor="end" font-weight="normal" >11mo</text>
+<text x="518" y="278" fill="#cdd6f4" text-anchor="start" font-weight="normal" >ml-experiments\.venv</text>
+<text x="64" y="304" fill="#6c7086" text-anchor="start" font-weight="normal" >[ ]</text>
+<text x="108" y="304" fill="#fab387" text-anchor="start" font-weight="normal" >rust</text>
+<text x="274" y="304" fill="#cdd6f4" text-anchor="end" font-weight="normal" >1.4 GB</text>
+<rect x="290.0" y="293" width="12" height="10" rx="1.5" fill="#fab387" opacity="1"/>
+<rect x="304.0" y="293" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="318.0" y="293" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="332.0" y="293" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="346.0" y="293" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="360.0" y="293" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="374.0" y="293" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="388.0" y="293" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="402.0" y="293" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="416.0" y="293" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<text x="490" y="304" fill="#6c7086" text-anchor="end" font-weight="normal" >3mo</text>
+<text x="518" y="304" fill="#cdd6f4" text-anchor="start" font-weight="normal" >tools\ripgrep-fork\target</text>
+<text x="64" y="330" fill="#6c7086" text-anchor="start" font-weight="normal" >[ ]</text>
+<text x="108" y="330" fill="#94e2d5" text-anchor="start" font-weight="normal" >web</text>
+<text x="274" y="330" fill="#cdd6f4" text-anchor="end" font-weight="normal" >940.0 MB</text>
+<rect x="290.0" y="319" width="12" height="10" rx="1.5" fill="#94e2d5" opacity="1"/>
+<rect x="304.0" y="319" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="318.0" y="319" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="332.0" y="319" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="346.0" y="319" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="360.0" y="319" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="374.0" y="319" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="388.0" y="319" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="402.0" y="319" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="416.0" y="319" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<text x="490" y="330" fill="#6c7086" text-anchor="end" font-weight="normal" >2mo</text>
+<text x="518" y="330" fill="#cdd6f4" text-anchor="start" font-weight="normal" >landing-page\.next</text>
+<text x="64" y="356" fill="#6c7086" text-anchor="start" font-weight="normal" >[ ]</text>
+<text x="108" y="356" fill="#a6e3a1" text-anchor="start" font-weight="normal" >node</text>
+<text x="274" y="356" fill="#cdd6f4" text-anchor="end" font-weight="normal" >813.0 MB</text>
+<rect x="290.0" y="345" width="12" height="10" rx="1.5" fill="#a6e3a1" opacity="1"/>
+<rect x="304.0" y="345" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="318.0" y="345" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="332.0" y="345" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="346.0" y="345" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="360.0" y="345" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="374.0" y="345" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="388.0" y="345" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="402.0" y="345" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="416.0" y="345" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<text x="490" y="356" fill="#6c7086" text-anchor="end" font-weight="normal" >5d</text>
+<text x="518" y="356" fill="#cdd6f4" text-anchor="start" font-weight="normal" >acai-da-nina\node_modules</text>
+<text x="64" y="382" fill="#6c7086" text-anchor="start" font-weight="normal" >[ ]</text>
+<text x="108" y="382" fill="#74c7ec" text-anchor="start" font-weight="normal" >gradle</text>
+<text x="274" y="382" fill="#cdd6f4" text-anchor="end" font-weight="normal" >420.0 MB</text>
+<rect x="290.0" y="371" width="12" height="10" rx="1.5" fill="#74c7ec" opacity="1"/>
+<rect x="304.0" y="371" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="318.0" y="371" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="332.0" y="371" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="346.0" y="371" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="360.0" y="371" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="374.0" y="371" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="388.0" y="371" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="402.0" y="371" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="416.0" y="371" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<text x="490" y="382" fill="#6c7086" text-anchor="end" font-weight="normal" >1y</text>
+<text x="518" y="382" fill="#cdd6f4" text-anchor="start" font-weight="normal" >android-app\build</text>
+<text x="64" y="408" fill="#6c7086" text-anchor="start" font-weight="normal" >[ ]</text>
+<text x="108" y="408" fill="#dfc88c" text-anchor="start" font-weight="normal" >pycache</text>
+<text x="274" y="408" fill="#cdd6f4" text-anchor="end" font-weight="normal" >12.0 MB</text>
+<rect x="290.0" y="397" width="12" height="10" rx="1.5" fill="#dfc88c" opacity="1"/>
+<rect x="304.0" y="397" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="318.0" y="397" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="332.0" y="397" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="346.0" y="397" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="360.0" y="397" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="374.0" y="397" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="388.0" y="397" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="402.0" y="397" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<rect x="416.0" y="397" width="12" height="10" rx="1.5" fill="#45475a" opacity="0.55"/>
+<text x="490" y="408" fill="#6c7086" text-anchor="end" font-weight="normal" >9mo</text>
+<text x="518" y="408" fill="#cdd6f4" text-anchor="start" font-weight="normal" >ml-experiments\__pycache__</text>
+<rect x="38" y="451" width="30.4" height="21" fill="#6c7086"/>
+<text x="53.2" y="466" fill="#11111b" text-anchor="middle" font-weight="normal" >↑↓</text>
+<text x="76.4" y="466" fill="#6c7086" text-anchor="start" font-weight="normal" >move</text>
+<rect x="133.2" y="451" width="58.0" height="21" fill="#6c7086"/>
+<text x="162.2" y="466" fill="#11111b" text-anchor="middle" font-weight="normal" >space</text>
+<text x="199.2" y="466" fill="#6c7086" text-anchor="start" font-weight="normal" >select</text>
+<rect x="274.4" y="451" width="21.2" height="21" fill="#6c7086"/>
+<text x="285.0" y="466" fill="#11111b" text-anchor="middle" font-weight="normal" >a</text>
+<text x="303.59999999999997" y="466" fill="#6c7086" text-anchor="start" font-weight="normal" >all</text>
+<rect x="351.19999999999993" y="451" width="21.2" height="21" fill="#6c7086"/>
+<text x="361.79999999999995" y="466" fill="#11111b" text-anchor="middle" font-weight="normal" >n</text>
+<text x="380.3999999999999" y="466" fill="#6c7086" text-anchor="start" font-weight="normal" >none</text>
+<rect x="437.19999999999993" y="451" width="21.2" height="21" fill="#6c7086"/>
+<text x="447.79999999999995" y="466" fill="#11111b" text-anchor="middle" font-weight="normal" >d</text>
+<text x="466.3999999999999" y="466" fill="#6c7086" text-anchor="start" font-weight="normal" >delete</text>
+<rect x="541.5999999999999" y="451" width="21.2" height="21" fill="#6c7086"/>
+<text x="552.1999999999999" y="466" fill="#11111b" text-anchor="middle" font-weight="normal" >s</text>
+<text x="570.8" y="466" fill="#6c7086" text-anchor="start" font-weight="normal" >sort</text>
+<rect x="627.5999999999999" y="451" width="39.6" height="21" fill="#6c7086"/>
+<text x="647.3999999999999" y="466" fill="#11111b" text-anchor="middle" font-weight="normal" >tab</text>
+<text x="675.1999999999999" y="466" fill="#6c7086" text-anchor="start" font-weight="normal" >filter</text>
+<rect x="750.3999999999999" y="451" width="21.2" height="21" fill="#6c7086"/>
+<text x="760.9999999999999" y="466" fill="#11111b" text-anchor="middle" font-weight="normal" >q</text>
+<text x="779.5999999999999" y="466" fill="#6c7086" text-anchor="start" font-weight="normal" >quit</text>
+<rect x="20" y="10" width="900" height="500" rx="12" fill="#11111b" opacity=".55"/>
+<rect x="220.0" y="235" width="500" height="150" fill="#1e1e2e" stroke="#f9e2af"/>
+<rect x="236.0" y="224" width="86" height="22" fill="#1e1e2e"/>
+<text x="244.0" y="240" fill="#f9e2af" text-anchor="start" font-weight="normal" >confirm</text>
+<text x="470.0" y="297" text-anchor="middle" xml:space="preserve" fill="#cdd6f4">Permanently delete <tspan font-weight="bold">4</tspan> directories (<tspan fill="#f9e2af" font-weight="bold">19.5 GB</tspan>)?</text>
+<rect x="365.0" y="331" width="34" height="22" fill="#a6e3a1"/>
+<text x="382.0" y="347" fill="#11111b" text-anchor="middle" font-weight="normal" >y</text>
+<text x="408.0" y="347" fill="#cdd6f4" text-anchor="start" font-weight="normal" >yes</text>
+<rect x="498.0" y="331" width="34" height="22" fill="#f38ba8"/>
+<text x="515.0" y="347" fill="#11111b" text-anchor="middle" font-weight="normal" >n</text>
+<text x="541.0" y="347" fill="#cdd6f4" text-anchor="start" font-weight="normal" >no</text>
+</svg>

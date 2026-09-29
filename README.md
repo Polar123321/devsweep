@@ -1,4 +1,13 @@
-<h1 align="center">devsweep</h1>
+<p align="center">
+  <img src="docs/banner.svg" alt="devsweep" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Polar123321/devsweep/actions/workflows/ci.yml"><img src="https://github.com/Polar123321/devsweep/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-a6e3a1?style=flat" alt="MIT license"></a>
+  <img src="https://img.shields.io/badge/built%20with-Rust-fab387?style=flat&logo=rust&logoColor=white" alt="Built with Rust">
+  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-89b4fa?style=flat" alt="Cross-platform">
+</p>
 
 <p align="center">
   <b>Your disk is full of <code>node_modules</code>. Sweep it in seconds.</b><br>
@@ -7,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/demo.gif" alt="devsweep demo" width="800">
+  <img src="docs/screenshot.svg" alt="devsweep listing build directories by size" width="820">
 </p>
 
 ## Why
@@ -32,6 +41,10 @@ pick what to delete, all from a keyboard-driven TUI.
 - **Multi-ecosystem**: Node, Rust, Python, Web frameworks, Maven, Gradle, CocoaPods.
 - **Stale-only mode**: `--older-than 90` shows only projects you haven't touched in 90 days.
 - **Scriptable**: `--list` prints results and exits.
+
+<p align="center">
+  <img src="docs/confirm.svg" alt="devsweep asking for confirmation before deleting" width="820">
+</p>
 
 ## What it detects
 
@@ -95,7 +108,7 @@ cargo test
 cargo clippy --all-targets -- -D warnings
 ```
 
-To re-record the demo GIF: install [vhs](https://github.com/charmbracelet/vhs) and run `vhs demo.tape`.
+To record a real demo GIF: install [vhs](https://github.com/charmbracelet/vhs) and run `vhs demo.tape`.
 
 ## License
 
