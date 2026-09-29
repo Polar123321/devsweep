@@ -61,6 +61,16 @@ pub fn age(modified: Option<SystemTime>) -> String {
     }
 }
 
+/// Keeps the tail of a long path so the header never pushes the badges out.
+fn shorten(path: &str, max: usize) -> String {
+    let count = path.chars().count();
+    if count <= max {
+        return path.to_string();
+    }
+    let tail: String = path.chars().skip(count - (max - 1)).collect();
+    format!("…{tail}")
+}
+
 fn bar(size: u64, max: u64, width: usize) -> String {
     if max == 0 {
         return "░".repeat(width);
@@ -101,7 +111,10 @@ fn draw_header(f: &mut Frame, app: &App, area: Rect) {
             " devsweep ",
             Style::new().fg(Color::Black).bg(ACCENT).bold(),
         ),
-        Span::styled(format!(" {} ", app.root.display()), Style::new().fg(DIM)),
+        Span::styled(
+            format!(" {} ", shorten(&app.root.display().to_string(), 40)),
+            Style::new().fg(DIM),
+        ),
     ];
     if app.dry_run {
         title.push(Span::styled(
@@ -367,6 +380,15 @@ mod tests {
         println!("{screen}");
         assert!(screen.contains("confirm"));
         let _ = std::fs::remove_dir_all(root);
+    }
+
+    #[test]
+    fn shortens_long_paths_keeping_the_tail() {
+        assert_eq!(shorten("short", 40), "short");
+        let long = "/var/folders/aa/bbbbbbbbbbbbbbbb/T/devsweep-test-ui-1234";
+        let out = shorten(long, 40);
+        assert_eq!(out.chars().count(), 40);
+        assert!(out.starts_with('…') && out.ends_with("devsweep-test-ui-1234"));
     }
 
     #[test]
